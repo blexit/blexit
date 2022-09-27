@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blexit
-- 👀 I’m interested in cloud and devops 
-- 🌱 I’m currently learning kubernetes on aws
+- 👀 I’m interested in sofware engineering stuff 
+- 🌱 I’m currently studing HTML, CSS, BOOTSTRAP, JAVASCRIPT NEXT --> REACT & NODEJS
 
 
 <!---
