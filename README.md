@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blexit
-- 👀 I’m interested in devops world
-- 🌱 I’m currently working as a devops
+- 👀 I’m interested in devops world and open source world
+- 🌱 I’m currently working as a devops engineer
 
 
 <!---
