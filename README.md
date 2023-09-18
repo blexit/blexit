@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blexit
-- 👀 I’m interested in sofware engineering stuff 
-- 🌱 I’m currently studing HTML, CSS, BOOTSTRAP, JAVASCRIPT NEXT --> REACT & NODEJS
+- 👀 I’m interested in devops world
+- 🌱 I’m currently working as a devops
 
 
 <!---
